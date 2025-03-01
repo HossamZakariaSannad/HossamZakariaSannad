@@ -39,7 +39,7 @@
 
 ## 📬 Let's Connect!
 📧 Email: hossamzakaria1212@gmail.com  
-🔗 LinkedIn: [Add your LinkedIn link here]  
+🔗 [LinkedIn: Hossam Zakaria Sannad](https://www.linkedin.com/in/hossam-zakaria-s/)
 🌐 Portfolio: [https://hossamzakariasannad.github.io/html-project-portfolio/](https://hossamzakariasannad.github.io/html-project-portfolio/)
 
 ---
